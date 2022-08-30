@@ -9,7 +9,7 @@ body {
   width: 80%;
 }
 .top-nav {
-  background: rgb(234, 30, 30);
+  background: rgb(57, 73, 145);
   /* position: fixed; */
   width: 100vw;
 }
@@ -47,7 +47,7 @@ body {
 .round {
   width: 100px;
   height: 100px;
-  background: linear-gradient(red, yellow);
+  background: linear-gradient(rgb(75, 75, 150), yellow);
   border-radius: 50%;
   position: relative;
   left: 50px;
